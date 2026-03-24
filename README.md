@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azat Agamyradow
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning and working with Vue 3 and NodeJS[expressJS]
+- 🌱 Technologies I know: VueJS, NuxtJS, ExpressJS and Flutter
 - 💞️ I’m looking to collaborate on work with hardworking people
 - 📫 How to reach me agamyradowazat04@gmail.com or +99365355955
 - 👨‍🎓 I'm a CS & IT student at Oguzhan Engineering and Technology University Of Turkmenistan. You may visit official website from here 👉 https://www.etut.edu.tm/
