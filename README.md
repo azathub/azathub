@@ -11,9 +11,8 @@ I love working with tools that allow for fast, scalable, and cross-platform deve
 *   **Tools:** Git, Firebase, RESTful APIs
 
 ### 🚀 What I'm Focused On
-Currently, I am diving deep into **mobile architecture** and optimizing Flutter apps for performance. I am always eager to collaborate on projects that solve real-world problems and push the boundaries of user experience.
+I am continuously evolving my skillset, diving deep into **mobile architecture**, and optimizing applications for performance. I am always eager to collaborate on projects that solve real-world problems and push the boundaries of user experience.
 
-*   🌱 I’m currently learning: **State Management patterns (Bloc/Provider) and Firebase integrations.**
 *   💞️ I’m looking to collaborate on: **Open-source mobile projects, cross-platform apps, and full-stack solutions.**
 *   👨‍🎓 Student at: [Oguzhan Engineering and Technology University of Turkmenistan](https://www.etut.edu.tm/)
 
