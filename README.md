@@ -28,3 +28,62 @@
   <table width="100%">
     <tr>
       <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
+        <code style="color: #58a6ff;">$ cat quote.txt</code><br />
+        <span style="color: #8b949e; font-style: italic;">
+          > "The beautiful thing about learning is that no one can take it away from you."
+        </span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+## ⚡ Tech Stack & Architecture
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">📱 Mobile Development</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🌐 Frontend Web</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+    <td width="34%" valign="top">
+      <h3 align="center">⚙️ Backend & Cloud</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Developer Ecosystem & Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+## 🔍 System Overview & Focus
+
+```gantt
+  Mobile Architecture   : active, mobile, 2026-01-01, 30d
+  NestJS & Microservices: backend, 2026-01-15, 45d
+  Open Source Projects  : collab, 2026-02-01, 60d
