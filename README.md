@@ -39,51 +39,60 @@
 
 <br />
 
-## ⚡ Tech Stack & Architecture
+## 🛠 Tech Stack
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">📱 Mobile Development</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🌐 Frontend Web</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /><br />
-        <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" /><br />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-    <td width="34%" valign="top">
-      <h3 align="center">⚙️ Backend & Cloud</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /><br />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-### 🛠️ Developer Ecosystem & Tooling
+### 📱 Mobile & Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### ⚙️ Backend & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+</p>
+
+### 🧰 Tools & Web
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ---
 
-## 🔍 System Overview & Focus
+## 🚀 About Me
 
-```gantt
-  Mobile Architecture   : active, mobile, 2026-01-01, 30d
-  NestJS & Microservices: backend, 2026-01-15, 45d
-  Open Source Projects  : collab, 2026-02-01, 60d
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Core Focus</h3>
+      <ul>
+        <li>🚀 Deeply focusing on <strong>mobile architecture</strong> and performant applications.</li>
+        <li>⚡ Building scalable, type-safe backends using <strong>NestJS</strong> & Node.js.</li>
+        <li>📖 Lifelong learner passionate about classic literature, poetry, and tech innovation.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Collaboration</h3>
+      <ul>
+        <li>💞️ <strong>Open to collaborate on:</strong> Open-source mobile projects, cross-platform apps, and full-stack solutions.</li>
+        <li>👨‍🎓 <strong>Student at:</strong> <a href="https://www.etut.edu.tm/">Oguzhan Engineering and Technology University of Turkmenistan</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <p><em>Thanks for stopping by! Feel free to reach out or check out my repositories.</em></p>
+</div>
